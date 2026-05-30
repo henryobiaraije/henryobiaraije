@@ -33,4 +33,4 @@ Outside of core architecture and client consulting, I run technical education pl
 - 🌍 **Compliance & Timezone:** Operating globally under frictionless **B2B / Corp-to-Corp (C2C) / 1099 structures** using Deel and Wise. Full timezone overlap with EST, GMT, and CET.
 - ✈️ **Relocation:** Open to permanent senior roles offering **Visa Sponsorship** to Germany (EU Blue Card pathways), Canada (STEM Express Entry), or the UK.
 - 📧 **Direct Reach:** henryobiaraije@gmail.com
-- 🔗 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+- 🔗 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/henryobiaraije/)
