@@ -6,8 +6,8 @@ Senior Full-Stack Engineer and Systems Architect with over 8 years of continuous
 
 ### 💻 Master Tech Stack
 
-- **Backend & Systems:** `Node.js` | `TypeScript` | `Rust` | `Solana/Anchor` | `Distributed Systems` | `REST & GraphQL APIs`
-- **Frontend & Frameworks:** `Next.js` | `React.js` | `JavaScript` | `Tailwind CSS`
+- **Backend & Systems:** `Node.js` | `TypeScript` | `Rust` | `PHP` | `Solana/Anchor` | `Distributed Systems` | `REST & GraphQL APIs`
+- **Frontend & Frameworks:** `Next.js` | `React.js` | `JavaScript` | `Tailwind CSS` | `Advanced WordPress (Core/Plugin Development)`
 - **Databases & Infrastructure:** `PostgreSQL` | `MySQL` | `Google Cloud Platform (GCP)` | `Docker` | `Git`
 - **Hardware & Low-Level:** `Embedded C/C++` | `Automation Logic` | `State Machines`
 
@@ -19,6 +19,7 @@ Senior Full-Stack Engineer and Systems Architect with over 8 years of continuous
 * 📊 **High-Scale Sports Analytics Pipeline:** Engineered a distributed Node.js and Firestore data synchronization network processing over **100,000 statistical records per minute** with background task runners for multi-channel alerting.
 * 🌐 **Web3 Prediction Market Scanner:** Designed defensive blockchain ingestion engines for decentralized APIs (Polymarket), constructing specialized transaction-hash observers and localized caching layers to compute real-time wallet metrics.
 * 🔌 **Hardware Automation Thesis:** Designed and constructed a physical dual-microcontroller automated high-voltage phase selector communicating via synchronized UART protocols.
+* 🛒 **Automated Discord-WooCommerce Membership Engine:** Created a custom WordPress plugin bridging e-commerce purchase webhooks directly with Discord role automation using OAuth2.
 
 ---
 
